@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Leilão II</string>
+    <string name="obra_da_semana">Obra da Semana</string>
+    <string name="ver_obra">Ver Obra</string>
+    <string name="dar_lance">Dar Lance</string>
+</resources>
